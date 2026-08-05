@@ -1,0 +1,79 @@
+📌 Project Overview
+
+The PhonePe Payment Analytics Dashboard was developed to monitor digital payment performance, transaction trends, user engagement, and service-wise transaction value. The dashboard provides a centralized view of key business metrics, enabling stakeholders to track payment success rates, analyze customer behavior, and optimize digital payment services.
+
+🎯 Business Problem
+
+As digital payment transactions continue to grow, businesses require a centralized analytics solution to answer critical questions:
+
+How many transactions are processed each month?
+What is the total transaction value?
+What is the payment success rate?
+Which payment services generate the highest transaction value?
+Which customer age group contributes the most transactions?
+How do weekday and weekend transactions compare?
+Who are the highest-value users?
+
+Without an interactive dashboard, monitoring these KPIs and identifying trends was time-consuming and inefficient.
+
+📂 Dataset
+
+Domain: Digital Payments
+
+Key Attributes
+Transaction Date
+Transaction Status
+Transaction Amount
+User ID
+Service Category
+Customer Age Group
+Month
+Weekday / Weekend
+Transaction Value
+🧹 Data Preparation
+
+The dataset was prepared using Power Query to ensure high-quality reporting.
+
+Steps Performed
+Removed duplicate records
+Handled missing values
+Standardized transaction status
+Corrected data types
+Created calculated columns for Month and Weekday
+Optimized data for analytical reporting
+📊 Key Performance Indicators
+KPI	Value
+💳 Total Transactions	300K
+💰 Total Transaction Value	₹3.47 Billion
+👥 Unique Users	108K
+✅ Payment Success Rate	96%
+📈 Month-over-Month Growth	~9%
+📈 Dashboard Features
+Interactive Month Filter
+Payment Status Filter
+KPI Cards
+Monthly Transaction Trend Analysis
+Service-wise Transaction Value
+Top 5 Users by Transaction Value
+Age Group Contribution Analysis
+Weekday vs Weekend Usage
+Business Insight Panel
+Dynamic Cross Filtering
+🔍 Key Insights
+300K transactions generated a total transaction value of ₹3.47 Billion.
+The overall payment success rate reached 96%, indicating reliable transaction processing.
+Gen X and Millennials contributed nearly 75% of total users, making them the most active customer segments.
+Weekday transactions accounted for approximately 72% of total payment activity.
+Money Transfer services generated the highest transaction value among all service categories.
+Transaction volume remained stable throughout the year, with noticeable peaks during mid-year months.
+A small group of high-value users contributed significantly to the overall transaction value.
+💼 Business Impact
+
+This dashboard enables businesses to:
+
+Monitor payment performance in real time
+Track transaction growth trends
+Identify high-value customer segments
+Improve payment success monitoring
+Analyze service performance
+Support strategic business decisions using data-driven insights
